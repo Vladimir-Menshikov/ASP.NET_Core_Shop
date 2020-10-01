@@ -63,3 +63,9 @@ C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
