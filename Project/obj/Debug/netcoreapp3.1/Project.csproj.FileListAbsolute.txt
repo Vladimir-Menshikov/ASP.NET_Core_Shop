@@ -69,3 +69,14 @@ C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs

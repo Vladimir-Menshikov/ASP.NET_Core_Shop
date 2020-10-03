@@ -1,5 +1,0 @@
-﻿@namespace Project.Pages
-@using Microsoft.AspNetCore.Mvc.RazorPages
-@using Project.Models
-@using Project.Infrastructure
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
