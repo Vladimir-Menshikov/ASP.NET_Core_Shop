@@ -102,3 +102,9 @@ C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Project20201008014448 - Web Deploy\profile.arm.json
