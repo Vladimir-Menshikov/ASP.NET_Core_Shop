@@ -10,8 +10,8 @@ using Project.Models;
 namespace Project.Migrations
 {
     [DbContext(typeof(StoreDbContext))]
-    [Migration("20201004153417_ShippedOrders")]
-    partial class ShippedOrders
+    [Migration("20201014215329_Orders")]
+    partial class Orders
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -101,12 +101,15 @@ namespace Project.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Category")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Price")

@@ -8,7 +8,7 @@ using Project.Components;
 using Project.Models;
 using Xunit;
 
-namespace SportsStore.Tests
+namespace Project.Tests
 {
     public class NavigationMenuViewComponentTests
     {

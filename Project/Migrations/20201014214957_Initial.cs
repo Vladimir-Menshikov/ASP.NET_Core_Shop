@@ -20,7 +20,8 @@ namespace Project.Migrations
                     State = table.Column<string>(nullable: false),
                     Zip = table.Column<string>(nullable: true),
                     Country = table.Column<string>(nullable: false),
-                    GiftWrap = table.Column<bool>(nullable: false)
+                    GiftWrap = table.Column<bool>(nullable: false),
+                    Shipped = table.Column<bool>(nullable: false)
                 },
                 constraints: table =>
                 {
@@ -33,10 +34,10 @@ namespace Project.Migrations
                 {
                     ProductID = table.Column<long>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(nullable: true),
-                    Description = table.Column<string>(nullable: true),
+                    Name = table.Column<string>(nullable: false),
+                    Description = table.Column<string>(nullable: false),
                     Price = table.Column<decimal>(type: "decimal(8, 2)", nullable: false),
-                    Category = table.Column<string>(nullable: true)
+                    Category = table.Column<string>(nullable: false)
                 },
                 constraints: table =>
                 {

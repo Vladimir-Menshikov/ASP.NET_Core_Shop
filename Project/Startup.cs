@@ -27,7 +27,7 @@ namespace Project
             services.AddControllersWithViews();
             services.AddDbContext<StoreDbContext>(opts => {
                 opts.UseSqlServer(
-                Configuration["ConnectionStrings:SportsStoreConnection"]);
+                Configuration["ConnectionStrings:HardStoreConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
             services.AddScoped<IOrderRepository, EFOrderRepository>();

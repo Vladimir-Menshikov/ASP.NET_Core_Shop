@@ -9,8 +9,8 @@ namespace Project.Models
         public virtual void AddItem(Product product, int quantity)
             {
             CartLine line = Lines
-            .Where(p => p.Product.ProductID == product.ProductID)
-            .FirstOrDefault();
+                .Where(p => p.Product.ProductID == product.ProductID)
+                .FirstOrDefault();
             if (line == null)
             {
                 Lines.Add(new CartLine
