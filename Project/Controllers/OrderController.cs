@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Project.Models;
 using System.Linq;
-
+using Project.Services;
 namespace Project.Controllers
 {
     public class OrderController : Controller
@@ -27,12 +27,19 @@ namespace Project.Controllers
                 order.Lines = cart.Lines.ToArray();
                 repository.SaveOrder(order);
                 cart.Clear();
+                SendMessage(order.Email);
                 return RedirectToPage("/Completed", new { orderId = order.OrderID });
             }
             else
             {
                 return View();
             }
+        }
+
+        public async void SendMessage(string email)
+        {
+            EmailService emailService = new EmailService();
+            await emailService.SendEmailAsync(email, "Order", "Thanks for placing order! We'll ship your goods as soon as possible.");
         }
     }
 }

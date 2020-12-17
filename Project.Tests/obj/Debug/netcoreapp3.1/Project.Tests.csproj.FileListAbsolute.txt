@@ -135,3 +135,15 @@ C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tes
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\obj\Debug\netcoreapp3.1\Project.Tests.dll
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\obj\Debug\netcoreapp3.1\Project.Tests.pdb
 C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\obj\Debug\netcoreapp3.1\Project.Tests.genruntimeconfig.cache
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Project20201008014448 - Web Deploy\profile.arm.json
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vladimir Menshikov\Documents\My documents\5 sem\IGI\Project\Project.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
